@@ -1,5 +1,5 @@
 ### Hi I am Augustine Victor I love coding and building mobile application. I code in flutter and Dart. 👋
-
+![](https://media.giphy.com/media/dC3HPyBAR7wrodZQjU/giphy.gif)
 <!--
 **austinevick/austinevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
