@@ -1,5 +1,4 @@
 ### Hi I am Augustine Victor I love coding and building mobile application. I code in flutter and Dart. 👋
-![](https://media.giphy.com/media/dC3HPyBAR7wrodZQjU/giphy.gif)
 ![](https://media.giphy.com/media/WR2bjLD5Udv1GQERIP/giphy.gif)
 ![](https://media.giphy.com/media/JU4irifXxLcmVCiVS8/giphy.gif)
 <!--
