@@ -1,9 +1,7 @@
 ### Hi I am Augustine Victor I love coding and building mobile application. I code in flutter and Dart. 👋
 ![](https://media.giphy.com/media/WR2bjLD5Udv1GQERIP/giphy.gif)
 ![](https://media.giphy.com/media/JU4irifXxLcmVCiVS8/giphy.gif)
-![](https://github.com/austinevick/login-screen/blob/master/screenshots/Screenshot_1598382687.png)
-![](https://github.com/austinevick/login-screen/blob/master/screenshots/Screenshot_1598382723.png)
-![](https://github.com/austinevick/login-screen/blob/master/screenshots/Screenshot_1598382768.png)
+
 <!--
 **austinevick/austinevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
