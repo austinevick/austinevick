@@ -1,4 +1,5 @@
-### Hi I am Augustine Victor I love coding and building mobile application. I code in flutter and Dart. 👋
+### Hi I am Augustine Victor I love coding and building mobile application with Dart, Java and Kotlin. 
+👋
 
 <!--
 **austinevick/austinevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
