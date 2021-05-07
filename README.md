@@ -1,5 +1,5 @@
-### Hi, I am Augustine Victor am a mobile developer. 
-👋
+### Hi 👋, I am Augustine Victor am a mobile developer. 
+
 
 <!--
 **austinevick/austinevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
