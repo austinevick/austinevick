@@ -1,4 +1,4 @@
-### Hi I am Augustine Victor I love coding and building mobile application with Dart, Java and Kotlin. 
+### Hi I am Augustine Victor am a mobile developer. 
 👋
 
 <!--
