@@ -1,4 +1,7 @@
-### Hi 👋, I am Augustine Victor am a mobile developer. 
+### Hi 👋, I am Augustine Victor. I am a flutter mobile developer.
+🔭 I am currently working on flutter projects. 
+💬 Ask me about flutter 
+
 
 
 <!--
