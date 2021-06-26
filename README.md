@@ -1,4 +1,4 @@
-### Hi 👋, My Augustine Victor I love coding and building mobile apps
+### Hi 👋, Am Augustine Victor I love coding and building mobile apps. 
 📫 How to reach me: https://www.linkedin.com/in/augustine-victor-800b94172/
 🔭 I am currently working on flutter projects. 
 💬 Ask me about flutter 
